@@ -1,4 +1,4 @@
 { "title": "Jade CouchDB"
 , "style": "font-style: italic; font-size: 115%"
-, "message": "Welcome to Jade CouchDB! How simple was that?"
+, "message": "Welcome to Jade CouchDB! How simple was that? Try <a href='./ui/red'>red Jade</a> too."
 }
