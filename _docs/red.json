@@ -1,5 +1,5 @@
 { "_id": "red"
 , "style": "height: 5em; width: 100%; background-color: #ffaaaa"
-, "message": "Welcome to RED Jade CouchDB. This is the <strong>_red</strong> document"
+, "message": "Welcome to RED Jade CouchDB. This is the <strong>_red</strong> document<br><br>See also the <a href='different'>different document</a>."
 , "title": "RED Jade!"
 }

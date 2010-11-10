@@ -1,0 +1,7 @@
+{ "_id": "different"
+, "title": "Different Template"
+, "style": "height: 10em; width: 15em; margin: 2em; border: 2px solid black;"
+, "message": "This document has a different template..."
+, "message2": "...as well as context variables"
+, "template": "!!! 5\nhtml\n  p(style:style)= message\n  p= message2"
+}
