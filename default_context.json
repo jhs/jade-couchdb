@@ -1,4 +1,4 @@
 { "title": "Jade CouchDB"
 , "style": "font-style: italic; font-size: 115%"
-, "message": "Welcome to Jade CouchDB! How simple was that? Try <a href='./ui/red'>red Jade</a> too."
+, "message": "Welcome to <a href='http://github.com/jhs/jade-couchdb'>Jade CouchDB</a>! How simple was that? Try <a href='./ui/red'>red Jade</a> too."
 }
